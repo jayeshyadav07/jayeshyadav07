@@ -1,83 +1,47 @@
+<h1 align="left">Hi 👋, I'm Jayesh</h1>
 
-<h1 align="left">Hi 👋, I'm Jayesh </h1>
-<br/>
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Problem+Solver&color=cyan&center=false" alt="Software Engineer" />
 </div>
-<!-- <h2 align="center">Full Stack Web Developer skilled in Backend.</h2> -->
-<!-- <h2>A passionate Backend developer. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<img align="right" alt "Coding" width="350" src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966"> -->
 
+Software engineer with 2+ years of experience building web applications end to end: responsive interfaces in React and Vue, secure backend services in Node.js, and the databases and containers underneath them.
 
-
-
-
-
-- 👨‍💻 See my Portfolio here [Portfolio](https://jayeshyadav07.github.io/)
-
-- 📫 Reach me at *jayeshyadav8080@gmail.com*
-
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1TV1bN4X0xh1w9lmxOz0O48OxD2qjpd61/view?usp=share_link)
-
-- ⚡ Fun fact - I enjoy solving problems. 🖊️
-
--  🌎 Let's Create something the World needs 🌎
-
+- 👨‍💻 See my work on my [Portfolio](https://jayeshyadav07.github.io/)
+- 📄 Know more about me in my [Resume](https://jayeshyadav07.github.io/images/Jayesh-Yadav-Resume.pdf)
+- 📫 Reach me at [jayeshyadav8080@gmail.com](mailto:jayeshyadav8080@gmail.com)
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/yadav-jayesh/)
+- 🌱 Currently learning Java, Spring Boot and microservices
+- ⚡ Fun fact: I enjoy solving problems, 250+ DSA problems so far
 
-<br><br>
+## 💼 Experience
 
+**Full Stack Developer, Symbolist Technology** (Sep 2023 – Jul 2026)
 
-<!--  <h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Tech Stack </i></h2>
-<div style="margin: 0px auto; display: inline;">  &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTP_RBWniG6RLuxBFaaQFguZB9ycs_w6Xbjw&usqp=CAU" style="width: 50px;" alt="">
- &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" style="width: 60px; height: 50px; margin-bottom: 5px;" alt="">
-  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" style="width: 60px; height: 50px; margin-bottom: 5px;" alt="">
- &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
-&nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
-&nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://play-lh.googleusercontent.com/9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
- &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
- &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCTPT5iKGh1Fzcwyz4aOdD5hvqAfpphGQHw&usqp=CAU" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
-  
+- Built a scalable affiliate management system with real-time referral tracking and automated commission processing.
+- Integrated and optimized ClickHouse for high-volume analytics and real-time dashboards.
+- Implemented magic-link and token-based authentication and authorization.
+- Developed and maintained 30 RESTful APIs and backend integrations.
+- Containerized applications with Docker, cutting environment provisioning time by 60%.
 
-<br>
-<h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Tools | Use</i></h2>
-<div style="margin: 0px auto; display: inline;">  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" style="width: 50px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="width: 50px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="width: 50px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" style="width: 50px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://code.visualstudio.com/assets/images/code-stable.png" style="width: 50px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" style="width: 55px;" alt="">
-    &nbsp; &nbsp;  &nbsp; &nbsp; <img src="https://avatars.githubusercontent.com/u/77067997?s=200&v=4" style="width: 50px;" alt="">
- <br>
-  
-  
-    
+## 🛠️ Tech I work with
 
-<h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>Connect with me</i></h2>
- <p align="center" dir="auto">
-              &nbsp;   &nbsp;  <a href="https://www.linkedin.com/in/imran-sutar-0a858425b/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
-            &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a title="sutarimran47@gmail.com" href="mailto:sutarimran47@gmail.com"><img align="center" src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67" width="50px" alt="mail-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/888/888853.png" style="max-width: 100%;"></a>
-            &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://wa.me/919370093936" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67" width="50px" alt="whatsapp-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/733/733585.png" style="max-width: 100%;"></a>
-            &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://github.com/JayeshYadav07"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png" width="50px" alt="portfolio" style="max-width: 100%;"></a>
-        </p> -->
-<!-- <p align="left">
-</p>
-  
-  
-  
-  
-  <h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>GitHub Stats</i></h2>
+| Area | Tools |
+| --- | --- |
+| Languages | JavaScript, TypeScript, PHP |
+| Frontend | React, Vue, HTML5, CSS3, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | PostgreSQL, MongoDB, MySQL, ClickHouse |
+| DevOps & tools | Docker, Linux, Ansible, Git, GitHub |
 
-   
+## 🌱 Currently learning
 
- <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshYadav07&show_icons=true&locale=en&layout=compact" alt="JayeshYadav07" /></p>  -->
+Java (Core, 8/11/17), Spring Boot, Spring Security and JPA / Hibernate, along with microservices, Kafka, RabbitMQ, Redis, AWS, Kubernetes, and CI/CD with Jenkins.
 
- <!-- 
- <p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=JayeshYadav07&show_icons=true&locale=en" alt="JayeshYadav07" /></p> 
- 
-<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshYadav07&" alt="JayeshYadav07" /></p>
-          <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayeshYadav07" alt="JayeshYadav07" /></a> </p>
- <br><hr>
-  
-  <h3 al
-  --> 
+## 🚀 Projects
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **QuickShop** | E-commerce store with product search, cart and checkout, Razorpay payments, order history and an admin dashboard | React, Vite, Tailwind CSS, Node.js, Express, MongoDB | [Live](https://quick-shopx100.vercel.app) · [Code](https://github.com/jayeshyadav07/QuickShop) |
+| **Job Portal** | Hiring platform where recruiters post jobs and students apply, with JWT authentication and role-based access | React, TypeScript, Node.js, MongoDB, Tailwind CSS, shadcn/ui | [Code](https://github.com/jayeshyadav07/Job-Portal) |
+
+More on my [portfolio](https://jayeshyadav07.github.io/#projects).
